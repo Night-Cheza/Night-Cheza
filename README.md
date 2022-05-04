@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leila (or simply Leia)
-- 👀 I’m interested in Typescript and learning skills that will help me to create some of ideas I have
+- 👀 I’m interested in Typescript and other skills that will help me together with a team create worthy and notable products.
 - 🌱 I’m currently a student at Southern Institute of Techniligy (SAIT), Calgary, Canada
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: drop an email leila.kassi@outlook.com
