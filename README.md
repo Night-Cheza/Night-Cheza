@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leila (or simply Leia)
+- 👋 Hi, I’m Leila
 - 👀 I’m interested in Typescript and React, also other skills that will help me together with a team create worthy and notable products.
 - 💞️ I’m looking to collaborate on projects that will positively change people's lives.
 - 📫 How to reach me: drop an email leila.kassi@outlook.com
